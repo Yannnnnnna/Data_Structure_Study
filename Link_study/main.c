@@ -107,6 +107,7 @@ int ListDelete(SqList *list, int i) {       //【删除顺序表的元素】
     return OK;
 }
 
+
 int main() {
     SqList sqList;
     InitList(&sqList);
