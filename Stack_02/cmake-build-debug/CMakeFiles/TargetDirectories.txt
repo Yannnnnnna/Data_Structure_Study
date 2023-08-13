@@ -1,0 +1,3 @@
+G:/c/ColinProject/Data_structure_study/Stack_02/cmake-build-debug/CMakeFiles/Stack_02.dir
+G:/c/ColinProject/Data_structure_study/Stack_02/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/c/ColinProject/Data_structure_study/Stack_02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
